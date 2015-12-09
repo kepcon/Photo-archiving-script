@@ -1,6 +1,6 @@
 #!/bin/sh
 #Systems & Services phar coursework script
-#Connor Keppie - 40168956
+
 
 echo "PHAR coursework script running..."
 
