@@ -5,4 +5,4 @@ Copies all files matching regex IMG_XXXX.JPG (X = any number) from the source di
 
 Files that are not identical but have the same name will have '.JPG' appended on to the name to make them uniquely identifiable. The paths of duplicate files are written to duplicates.txt.
 
-# Usage: phar source_path archive_path
+## Usage: phar source_path archive_path
